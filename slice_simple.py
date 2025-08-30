@@ -3,4 +3,4 @@ def slice_simple():
     rst = texto[4::2]
     print(rst)
 
-#slice_advanced()
+#slice_simple()
