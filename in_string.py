@@ -5,5 +5,4 @@ def check_vowels():
     print("Contiene i:", "i" in texto.lower())
     print("Contiene o:", "o" in texto.lower())
     print("Contiene u:", "u" in texto.lower())
-
-# check_vowels()
+#check_vowels()
